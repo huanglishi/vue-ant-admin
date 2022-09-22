@@ -149,8 +149,10 @@ pnpm build
 
 ## 后台整合示例
 
-- [lamp-cloud](https://github.com/zuihou/lamp-cloud) - 基于 SpringCloud Alibaba 的微服务中后台快速开发平台
-- [matecloud](https://github.com/matevip/matecloud) - MateCloud 微服务脚手架，基于 Spring Cloud 2020.0.3、SpringBoot 2.5.3 的全开源平台
+- [GoAdmin](https://github.com/huanglishi/golang_admin) - 基于Go的Gin、gorose、Mysql后台快速开发平台
+- [gin](https://gin-gonic.com/zh-cn/docs/introduction/) - gin 框架是最Go最好的 RESTful Web 服务框架，Go官方推荐
+- [gorose](https://www.kancloud.cn/fizz/gorose-2/1135835) - gorose一个小巧强悍的Go orm,用过php、python、ruby的人可以快速上手。
+- [Go/Golang](https://go.dev/doc/) - 更多Go知识请自己去了解。
 
 ## 维护者
 

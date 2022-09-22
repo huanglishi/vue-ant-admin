@@ -28,7 +28,7 @@ Vue Vben Admin is a free and open source middle and back-end template. Using the
 - [vben-admin-thin-next](https://vvbin.cn/thin/next/) - Simplified Chinese site
 - [vben-admin-thin-gh-pages](https://anncwb.github.io/vben-admin-thin-next/) -Simplified github site
 
-Test account: vben/123456
+Test account: ant/123456
 
 <p align="center">
     <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
@@ -155,15 +155,15 @@ Support modern browsers, not IE
 
 If you think this project is helpful to you, you can help the author buy a cup of coffee to show your support!
 
-![donate](https://anncwb.github.io/anncwb/images/sponsor.png)
+![donate]()
 
-<a style="display: block;width: 100px;height: 50px;line-height: 50px; color: #fff;text-align: center; background: #408aed;border-radius: 4px;" href="https://www.paypal.com/paypalme/cvvben">Paypal Me</a>
+<a style="display: block;width: 100px;height: 50px;line-height: 50px; color: #fff;text-align: center; background: #408aed;border-radius: 4px;" href="https://linbint.com/">T Blog</a>
 
 ## Discord
 
-- [github discussions](https://github.com/anncwb/vue-vben-admin/discussions)
-- [Discord](https://discord.gg/8GuAdwDhj6)
+
+- wechat 微信 `taijidao101`
 
 ## License
 
-[MIT © Vben-2020](./LICENSE)
+[MIT © Vben-2022](./LICENSE)

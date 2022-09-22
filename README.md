@@ -9,7 +9,7 @@
 
 ## 简介
 
-Vue ant Admin 是一个免费开源的中后台模版。使用了最新的`vue3`,`vite3`,`TypeScript`,`pinia`等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考。
+Vue ant Admin 是一个免费开源的中后台模版。使用了最新的`vue3`,`vite2/3`,`TypeScript`,`pinia`等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考。
 
 ## 特性
 
@@ -62,13 +62,13 @@ Vue ant Admin 是一个免费开源的中后台模版。使用了最新的`vue3`
 - 获取项目代码
 
 ```bash
-git clone https://github.com/anncwb/vue-vben-admin.git
+git clone https://github.com/huanglishi/vue-ant-admin.git
 ```
 
 - 安装依赖
 
 ```bash
-cd vue-vben-admin
+cd vue-ant-admin
 
 pnpm install
 
@@ -92,12 +92,12 @@ pnpm build
 
 ## 项目地址
 
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - 完整版
-- [vue-vben-admin-thin-next](https://github.com/anncwb/vben-admin-thin-next) - 简化版
+- [vue-ant-admin](https://github.com/huanglishi/vue-ant-admin) - 完整版
+- [vue-vben-admin-thin-next](https://github.com/anncwb/vben-admin-thin-next) - 简化版-直接去使用原作者
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/anncwb/vue-vben-admin/issues/new/choose) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/huanglishi/vue-ant-admin/issues/new/choose) 或者提交一个 Pull Request。
 
 **Pull Request:**
 

@@ -23,9 +23,9 @@ Vue Vben Admin is a free and open source middle and back-end template. Using the
 
 ## Preview
 
-- [vue-vben-admin](https://vvbin.cn/next/) - Full version Chinese site
-- [vue-vben-admin-gh-pages](https://anncwb.github.io/vue-vben-admin/) - Full version of the github site
-- [vben-admin-thin-next](https://vvbin.cn/thin/next/) - Simplified Chinese site
+- [vue-ant-admin](http://antadmin.hulingyun.cn) - Full version Chinese site
+- [Ant Design Vue](https://www.antdv.com/docs/vue/migration-v3-cn) -Built UI
+- [vben-admin-thin-next](https://vvbin.cn/thin/next/) - Simplified Chinese site-other
 - [vben-admin-thin-gh-pages](https://anncwb.github.io/vben-admin-thin-next/) -Simplified github site
 
 Test account: ant/123456

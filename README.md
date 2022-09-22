@@ -23,9 +23,9 @@ Vue ant Admin 是一个免费开源的中后台模版。使用了最新的`vue3`
 
 ## 预览
 
-- [vue-vben-admin](http://antadmin.hulingyun.cn) - 完整版中文站点
-- [vue-vben-admin-gh-pages](https://anncwb.github.io/vue-vben-admin/) - 完整版 github 站点
-- [vben-admin-thin-next](https://vvbin.cn/thin/next/) - 简化版中文站点
+- [vue-ant-admin](http://antadmin.hulingyun.cn) - 完整版中文站点
+- [ Ant Design Vue](https://www.antdv.com/docs/vue/migration-v3-cn) - 搭建的UI组件文档
+- [vben-admin-thin-next](https://vvbin.cn/thin/next/) - 简化版中文站点-使用原作者
 - [vben-admin-thin-gh-pages](https://anncwb.github.io/vben-admin-thin-next/) - 简化版 github 站点
 
 测试账号: ant/123456

@@ -162,7 +162,7 @@ pnpm build
 
 如果你觉得这个项目对你有帮助，你可以帮作者买一杯咖啡表示支持!
 
-![微信支付](https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220922/1663832934_赞赏码.jpg=180x180)
+![赞赏支持](https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220922/1663832934_赞赏码.jpg)
 
 <a style="display: block;width: 100px;height: 50px;line-height: 50px; color: #fff;text-align: center; background: #408aed;border-radius: 4px;" href="https://linbint.com/">技术博客</a>
 
